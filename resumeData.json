@@ -1,0 +1,81 @@
+{
+  "main": {
+    "name":"MCAMC 2022",
+    "description":"A Middle School mathematics competition hosted by the Middlesex County Academy for SMET!",
+    "image":"profilepic.jpg",
+    "bio":"The Middlesex County Academy Mathematics Competition is open to all middle school students! The competition will test basics in competition mathematics and will cover various topics such as Algebra, Geometry, Number Theory, and Counting and Probability. Each school should submit a check that contains the total cost along with the registration form. Click below to sign up!",
+    "email": "mcamathleague@gmail.com",
+    "phone": "April 30th, 10:30-6:30 EST",
+    "github":"https://www.canva.com/design/DAE3WuqLXnk/Nm7l1TN7lYVitx8BQg8tAA/view?utm_content=DAE3WuqLXnk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+    "address":{
+      "street":"Registration Fee: $5 (per student)",
+      "city":"100 Technology Dr, ",
+      "state":"Edison, NJ",
+      "zip": "08837"
+    },
+    "website": "https://www.canva.com/design/DAE3WuqLXnk/Nm7l1TN7lYVitx8BQg8tAA/view?utm_content=DAE3WuqLXnk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+    "resumedownload":"https://forms.gle/ZJocovauN8sEmAXu8",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://mcvts.net/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://mcvts.net/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"youtube",
+        "url":"http://mcvts.net/",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Important topics/concepts that will be tested",
+    "education":[
+      {
+        "school":"Hosted by the Middlesex County Academy for Science, Mathematics, and Engineering Technologies",
+        "degree":"Conducted In-Person",
+        "graduated":"Please read carefully!",
+        "description":"Will include an individual round, a team round, and a live round! The Individual Round comes first and is the most traditional of the 3 rounds. There are 20 questions spanning various topics. The questions will be similar in difficulty to the AMC 8. The Team Round comes second, and you will be working within your team of 4-6 students in a breakout room to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you’ve probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new. The Live Round comes last, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 8 sets of questions. The difficulty increases every set. It is called the Live Round because this round will be scored in real-time! Teams will recieve one set of 3 at a time and when the team is done with a set, they will submit their answers and receive the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed online. We designed our scoring system to give more points to harder questions, as well as to prevent ties. Each person’s individual score comes from the Individual Round, while the team overall score depends on the average of Individual Round scores, the Team Round score, and the Live Round score, with each component equally important."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Algebra",
+        "level":"80%"
+      },
+      {
+        "name":"Geometry",
+        "level":"60%"
+      },
+      {
+        "name":"Number Theory",
+        "level":"50%"
+      },
+      {
+        "name":"Counting and Probability",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AoPS",
+        "category":"Resources for competition mathematics",
+        "image":"1.jpg",
+        "url":"http://artofproblemsolving.com/"
+      },
+      {
+        "title":"Past MCAMC",
+        "category":"Past MCAMC tests and information",
+        "image":"2.jpg",
+        "url":"http://www.mcamath.com/mcamc/"
+      }
+    ]
+  }
+}
